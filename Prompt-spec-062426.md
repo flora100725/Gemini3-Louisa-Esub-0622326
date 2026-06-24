@@ -1,0 +1,1 @@
+Super, please don't modify code and only create a comprehensive technical specification of this design in markdown in 4000 to 5000 words. Please adding 3 additional wow ai features to this app. Please fix potential bugs and iterate until get excellent results before show the results. ENding with 20 comprehensive follow up questions.
